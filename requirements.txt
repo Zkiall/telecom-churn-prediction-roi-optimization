@@ -1,0 +1,12 @@
+# Core numerical & data processing
+numpy==2.2.0
+pandas==3.0.6
+
+# Visualization
+matplotlib==3.9.3
+seaborn==0.13.2
+
+# Machine learning & gradient boosting
+scikit-learn==1.9.1
+lightgbm==4.7.0
+catboost==1.2.10

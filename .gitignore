@@ -1,0 +1,32 @@
+# Raw datasets & tabular data (excluded for data privacy/licensing)
+data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# Local CV & GitHub portfolio drafting notes
+CV_PORTFOLIO_NOTES.md
+
+# Jupyter & IPython checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Training logs & caches
+catboost_info/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environments & local config
+.venv/
+venv/
+env/
+.env
+
+# OS & editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
