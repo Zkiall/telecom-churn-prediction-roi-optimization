@@ -101,6 +101,7 @@ telecom-churn-prediction-roi-optimization/
 ├── notebooks/
 │   └── telecom_churn_roi_analysis.ipynb   # Executed end-to-end pipeline (43 cells, RANDOM_STATE=42)
 └── reports/
+    ├── executive_business_proposal.pdf    # File 15-slide
     ├── executive_deck_outline.md          # 15-slide C-suite consulting blueprint
     └── figures/                           # Six 300-DPI analytical & financial charts
 ```
